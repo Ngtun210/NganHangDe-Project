@@ -1,3 +1,10 @@
+# Dự án được thực hiên bởi 
+Phạm Như Thắng	Nhóm Trưởng / Full-stack Developer	Chịu trách nhiệm chung, phát triển backend (.NET), thiết kế kiến trúc hệ thống và tích hợp dịch vụ. 
+Ngô Đức Tú	AI/ML Engineer	Nghiên cứu và tích hợp Gemini API để xây dựng các tính năng AI (tạo đề tự động, phân tích điểm yếu). 
+Đặng Thái Bình	Frontend Developer	Phát triển giao diện người dùng (UI/UX) bằng Angular, đảm bảo trải nghiệm người dùng thân thiện và trực quan. 
+Hoàng Kiều Chinh	DevOps & Tester	Xây dựng quy trình CI/CD, triển khai hệ thống trên Kubernetes và thực hiện kiểm thử bảo mật, hiệu năng. 
+
+
 # FrontEnd
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.7.
